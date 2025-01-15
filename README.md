@@ -9,7 +9,4 @@ git add .
 git commit -m "Ajout d'une quatrième image et d'un dot supplémentaire"
 git log
 git push origin main
-git pull origin main
-git add <fichier_conflit>
-git commit -m "Résolution du conflit de taille des dots"
-git push origin main
+
